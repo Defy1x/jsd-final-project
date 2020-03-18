@@ -64,7 +64,7 @@ for(i=0;i<bylineArr.length;i++){
         method: 'POST',
         headers: {
           "x-rapidapi-host": "yodish.p.rapidapi.com",
-          "x-rapidapi-key": "YOUR API KEY",
+          "x-rapidapi-key": "fda0bef684msh11c0a151cb3dbc4p1d4251jsn1ffbc7da45f5",
           "content-type": "application/json"
         },
         body: JSON.stringify({"text": yodaTalk})
@@ -76,7 +76,7 @@ for(i=0;i<bylineArr.length;i++){
     //     },
     //     headers: {
     //       "x-rapidapi-host": "yodish.p.rapidapi.com",
-    //       "x-rapidapi-key": "fda0bef684msh11c0a151cb3dbc4p1d4251jsn1ffbc7da45f5",
+    //       "x-rapidapi-key": "",
     //       "content-type": "application/x-www-form-urlencoded"
     //     },
     //     })
