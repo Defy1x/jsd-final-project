@@ -16,7 +16,7 @@ Enjoy!
 
 #Links
 ## Deployed Link:
-https://www.casyodaapp.com
+https://defy1x.github.io/yoda/
 
 #Usage
 ## Final screenshot
